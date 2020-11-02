@@ -1,7 +1,8 @@
 # tweepy-2020-election
 
-Used the Tweepy API to collect over 17000 tweets about the US 2020 Election over the course of 3 days to look at the lift ratios and sentimental analysis of the presidential candidates
-Created this project in a group with 4 people including myself
+* Used the Tweepy API to collect over 17000 tweets about the US 2020 Election over the course of 3 days to look at the lift ratios and sentimental analysis of the presidential candidates
+* Created this project in a group with 4 people including myself
+* Used Google Colab 
 
 # Assignment Overview
 
